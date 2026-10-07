@@ -1,0 +1,26 @@
+PAPERNEST SEO KEYWORD RESEARCH – SUBMISSION CHECKLIST
+
+[✓] Keyword list
+[✓] Search intent classification
+[✓] Primary and secondary keywords
+[✓] Keyword grouping
+[✓] Keyword selection rationale
+[✓] Informational intent
+[✓] Commercial intent
+[✓] Transactional intent
+[✓] Navigational intent
+[✓] SEO content recommendations
+[✓] Word report
+[✓] PDF report
+[✓] Excel spreadsheet
+[✓] CSV keyword list
+[✓] README
+
+RECOMMENDED SUBMISSION:
+PaperNest_SEO_Keyword_Research_Report.pdf
+
+SUPPORTING FILES:
+PaperNest_SEO_Keyword_Research_Report.docx
+PaperNest_Keyword_Research.xlsx
+PaperNest_Keyword_List.csv
+README.md

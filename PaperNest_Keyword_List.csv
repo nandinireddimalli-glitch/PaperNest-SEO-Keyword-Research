@@ -1,0 +1,41 @@
+No.,Keyword,Search Intent,Type,Keyword Group,Priority,Selection Rationale
+1,stationery online,Transactional,Primary,General Stationery,High,Core commercial keyword with direct purchase intent.
+2,buy stationery online,Transactional,Primary,General Stationery,High,Strong purchase intent and directly aligned with an online stationery store.
+3,online stationery store,Commercial,Primary,General Stationery,High,Users are evaluating or looking for an online stationery provider.
+4,stationery products,Commercial,Primary,General Stationery,High,Broad category term suitable for a product/category page.
+5,stationery shop online,Transactional,Primary,General Stationery,High,Indicates users looking for an online shop.
+6,school stationery,Commercial,Primary,School & Student,High,"Highly relevant to students, parents, and schools."
+7,school supplies online,Transactional,Primary,School & Student,High,Clear product-search and purchase intent.
+8,stationery for students,Commercial,Primary,School & Student,High,Targets a core PaperNest audience.
+9,notebooks online,Transactional,Primary,Notebooks,High,Strong product-level purchase intent.
+10,buy notebooks online,Transactional,Secondary,Notebooks,High,Very specific transactional query.
+11,best notebooks for students,Commercial,Secondary,Notebooks,Medium,Useful for comparison and buying-guide content.
+12,notebooks for school,Commercial,Secondary,Notebooks,Medium,Targets a specific student use case.
+13,study notebooks,Commercial,Secondary,Notebooks,Medium,Relevant product discovery keyword.
+14,writing notebooks online,Transactional,Secondary,Notebooks,Medium,Specific product search with purchase intent.
+15,pens online,Transactional,Primary,Writing Supplies,High,Important stationery product keyword.
+16,buy pens online,Transactional,Secondary,Writing Supplies,High,Direct transactional variant.
+17,stationery sets for students,Commercial,Secondary,School & Student,High,Useful for product bundles and student collections.
+18,school stationery kit,Transactional,Secondary,School & Student,High,Specific purchase-oriented product query.
+19,student stationery kit,Commercial,Secondary,School & Student,High,Targets students looking for bundled stationery.
+20,study supplies,Commercial,Primary,School & Student,High,Broad but relevant category keyword.
+21,study supplies for students,Commercial,Secondary,School & Student,Medium,Long-tail audience-specific variation.
+22,stationery essentials for students,Informational,Secondary,Educational Content,Medium,Good topic for a student stationery guide.
+23,best stationery for students,Commercial,Secondary,Educational Content,High,Combines research intent with strong product relevance.
+24,stationery checklist for students,Informational,Secondary,Educational Content,Medium,Strong blog/checklist opportunity.
+25,stationery ideas for students,Informational,Secondary,Educational Content,Medium,Useful for inspiration-oriented content.
+26,types of stationery,Informational,Secondary,Educational Content,Medium,Top-of-funnel educational topic.
+27,essential school supplies,Informational,Secondary,Educational Content,Medium,Educational content that can link to products.
+28,school supplies checklist,Informational,Secondary,Educational Content,Medium,Useful downloadable/blog content opportunity.
+29,office stationery online,Transactional,Primary,Office Supplies,High,Targets professionals and office buyers.
+30,office supplies online,Transactional,Primary,Office Supplies,High,Broader office purchase keyword.
+31,art supplies online,Transactional,Primary,Art & Craft,High,Expands the audience into creative products.
+32,drawing supplies online,Transactional,Secondary,Art & Craft,Medium,Specific art-product search.
+33,craft supplies online,Transactional,Secondary,Art & Craft,Medium,Specific creative-product search.
+34,stationery gift ideas,Informational,Secondary,Gift & Inspiration,Medium,Useful seasonal and blog-content opportunity.
+35,stationery gifts for students,Commercial,Secondary,Gift & Inspiration,Medium,Commercial research query for gifts.
+36,affordable stationery online,Commercial,Secondary,General Stationery,High,Combines price sensitivity with purchase research.
+37,stationery for college students,Commercial,Secondary,School & Student,High,Specific high-relevance audience segment.
+38,PaperNest stationery,Navigational,Primary,Brand,High,Branded query for users seeking PaperNest.
+39,PaperNest online store,Navigational,Primary,Brand,High,Branded navigation query.
+40,PaperNest stationery products,Navigational,Secondary,Brand,High,Branded product-discovery query.
